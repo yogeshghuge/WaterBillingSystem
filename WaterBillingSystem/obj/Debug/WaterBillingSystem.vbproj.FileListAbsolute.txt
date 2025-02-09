@@ -1,0 +1,54 @@
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.xml
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Form1.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmItem.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.exe
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.xml
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.pdb
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmCustomer.resources
+c:\users\win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoice.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoiceReport.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmManageCustomer.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmpayment.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmPaymentReport.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmSettings.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmStaff.resources
+C:\Users\Win10\documents\visual studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmTaxReport.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmListCustmers.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmeditcustomer.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmAccount.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.LoginForm1.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe.config
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.exe
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.xml
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.pdb
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Form1.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmAccount.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmCustomer.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmeditcustomer.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoice.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmInvoiceReport.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmItem.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmManageCustomer.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmpayment.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmPaymentReport.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmSettings.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmStaff.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmTaxReport.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.frmListCustmers.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.LoginForm1.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.Resources.resources
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.vbproj.GenerateResource.Cache
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.pdb
+C:\Users\PRATIK NIKAM\Downloads\waterbillingsystem_1\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.xml
+C:\Users\LENOVO\OneDrive\Desktop\WaterBillingSystem\WaterBillingSystem\bin\Debug\WaterBillingSystem.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.exe
+C:\Users\LENOVO\OneDrive\Desktop\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.xml
+C:\Users\LENOVO\OneDrive\Desktop\WaterBillingSystem\WaterBillingSystem\obj\Debug\WaterBillingSystem.pdb
